@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4RK645T4IDykGGgklAK1uovxQLH7wsJvvR7GXTTvKmYJsRqlOmq79LLCQscEBEMSbjtzIfyrPYDJ4aW3nojtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Aplicacao\\IdentidadeCultural.Entity.Aplicacao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.csproj",
+        "projectName": "IdentidadeCultural.Compartilhado",
+        "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.csproj",
+        "packagesPath": "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AntonioEduardoSilvei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Aplicacao\\IdentidadeCultural.Entity.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Aplicacao\\IdentidadeCultural.Entity.Aplicacao.csproj",
+        "projectName": "IdentidadeCultural.Entity.Aplicacao",
+        "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Aplicacao\\IdentidadeCultural.Entity.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AntonioEduardoSilvei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.csproj": {
+                "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.csproj"
+              },
+              "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj": {
+                "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj"
+              },
+              "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Infraestrutura\\IdentidadeCultural.Entity.Infraestrutura.csproj": {
+                "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Infraestrutura\\IdentidadeCultural.Entity.Infraestrutura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj",
+        "projectName": "IdentidadeCultural.Entity.Dominio",
+        "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj",
+        "packagesPath": "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AntonioEduardoSilvei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Infraestrutura\\IdentidadeCultural.Entity.Infraestrutura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Infraestrutura\\IdentidadeCultural.Entity.Infraestrutura.csproj",
+        "projectName": "IdentidadeCultural.Entity.Infraestrutura",
+        "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Infraestrutura\\IdentidadeCultural.Entity.Infraestrutura.csproj",
+        "packagesPath": "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Infraestrutura\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AntonioEduardoSilvei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj": {
+                "projectPath": "C:\\Users\\AntonioEduardoSilvei\\Desktop\\Projetos\\BackEnd.IdentidadeCultural\\IdentidadeCultural.Entity.Dominio\\IdentidadeCultural.Entity.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IdentidadeCultural.Entity.Dominio/1.0.0": {
+        "runtime": {
+          "IdentidadeCultural.Entity.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdentidadeCultural.Entity.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.csproj.AssemblyReference.cache
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.AssemblyInfoInputs.cache
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.AssemblyInfo.cs
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.csproj.CoreCompileInputs.cache
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AntonioEduardoSilvei\Desktop\Projetos\BackEnd.IdentidadeCultural\IdentidadeCultural.Auth.Api\obj\Debug\net6.0\IdentidadeCultural.Auth.Api.MvcApplicationPartsAssemblyInfo.cache
